@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WatchImageDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="save_picture_success">图片成功保存至%s目录</string>
+</resources>
